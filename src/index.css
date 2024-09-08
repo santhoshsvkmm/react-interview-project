@@ -1,13 +1,17 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'titillium';
+  src: url('./assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf') format('truetype'); 
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+body {
+   font-family: "titillium";
+   background-color: #171717;
+   color: #171717;
+   font-size: 14px;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+   color: #fff;
 }
