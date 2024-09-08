@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/santhoshsvkmm/react-interview-project/static/css/main.59ce5727.chunk.css",
+    "main.js": "/santhoshsvkmm/react-interview-project/static/js/main.d570d493.chunk.js",
+    "main.js.map": "/santhoshsvkmm/react-interview-project/static/js/main.d570d493.chunk.js.map",
+    "runtime-main.js": "/santhoshsvkmm/react-interview-project/static/js/runtime-main.56f2a118.js",
+    "runtime-main.js.map": "/santhoshsvkmm/react-interview-project/static/js/runtime-main.56f2a118.js.map",
+    "static/js/2.4780427a.chunk.js": "/santhoshsvkmm/react-interview-project/static/js/2.4780427a.chunk.js",
+    "static/js/2.4780427a.chunk.js.map": "/santhoshsvkmm/react-interview-project/static/js/2.4780427a.chunk.js.map",
+    "static/js/3.77968d8c.chunk.js": "/santhoshsvkmm/react-interview-project/static/js/3.77968d8c.chunk.js",
+    "static/js/3.77968d8c.chunk.js.map": "/santhoshsvkmm/react-interview-project/static/js/3.77968d8c.chunk.js.map",
+    "index.html": "/santhoshsvkmm/react-interview-project/index.html",
+    "precache-manifest.42eadcfb4ff784cb4aa8b4ee53c58525.js": "/santhoshsvkmm/react-interview-project/precache-manifest.42eadcfb4ff784cb4aa8b4ee53c58525.js",
+    "service-worker.js": "/santhoshsvkmm/react-interview-project/service-worker.js",
+    "static/css/main.59ce5727.chunk.css.map": "/santhoshsvkmm/react-interview-project/static/css/main.59ce5727.chunk.css.map",
+    "static/js/2.4780427a.chunk.js.LICENSE.txt": "/santhoshsvkmm/react-interview-project/static/js/2.4780427a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/santhoshsvkmm/react-interview-project/static/media/TitilliumWeb-Regular.57e937e4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f2a118.js",
+    "static/js/2.4780427a.chunk.js",
+    "static/css/main.59ce5727.chunk.css",
+    "static/js/main.d570d493.chunk.js"
+  ]
+}
