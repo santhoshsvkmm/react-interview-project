@@ -4,7 +4,7 @@
 }
 
 .movie-item {
-  flex: 0 1 33.333% ;
+  flex: 0 1 12.333%;
   box-sizing: border-box;
   margin-bottom: 20px; 
   padding: 10px;
@@ -16,7 +16,7 @@
 
 .movie-item img {
   width: 100%;
-  aspect-ratio: 2 / 3; 
+
   object-fit: fit; 
   border-radius: 4px;
 }
@@ -40,4 +40,48 @@
 .back-icon{
     color: #fff;
     padding-right: 10px;
+}
+
+@media (max-width: 768px) {
+
+
+  .movie-item {
+    flex: 0 1 33.33%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+
+  .movie-item img {
+    height: auto;
+  }
+
+  .movie-title {
+    font-size: 14px;
+  }
+
+  .response-negative-message {
+    font-size: 12px;
+  }
+
+  .back-icon {
+    font-size: 20px;
+  }
+}
+
+.pagination {
+    border: 1px solid seashell;
+    height: 20px;
+    width: auto;
+    padding: 10px;
+}
+
+.cell{
+  height: 15px;
+  padding: 0px 2px 2px;
+  width: 15px;
+  background-color: #fff;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+  margin: 0px 5px;
 }
