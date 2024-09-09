@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-interview-project/static/css/main.2ded53c6.chunk.css",
+    "main.css": "/react-interview-project/static/css/main.dd9f53e2.chunk.css",
     "main.js": "/react-interview-project/static/js/main.ccb54585.chunk.js",
     "main.js.map": "/react-interview-project/static/js/main.ccb54585.chunk.js.map",
     "runtime-main.js": "/react-interview-project/static/js/runtime-main.c472d655.js",
@@ -10,16 +10,16 @@
     "static/js/3.77968d8c.chunk.js": "/react-interview-project/static/js/3.77968d8c.chunk.js",
     "static/js/3.77968d8c.chunk.js.map": "/react-interview-project/static/js/3.77968d8c.chunk.js.map",
     "index.html": "/react-interview-project/index.html",
-    "precache-manifest.8641d806af9635c1a5d1978796155ec3.js": "/react-interview-project/precache-manifest.8641d806af9635c1a5d1978796155ec3.js",
+    "precache-manifest.11846a191ccc7d66b5132a569784ce2b.js": "/react-interview-project/precache-manifest.11846a191ccc7d66b5132a569784ce2b.js",
     "service-worker.js": "/react-interview-project/service-worker.js",
-    "static/css/main.2ded53c6.chunk.css.map": "/react-interview-project/static/css/main.2ded53c6.chunk.css.map",
+    "static/css/main.dd9f53e2.chunk.css.map": "/react-interview-project/static/css/main.dd9f53e2.chunk.css.map",
     "static/js/2.4780427a.chunk.js.LICENSE.txt": "/react-interview-project/static/js/2.4780427a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-interview-project/static/media/TitilliumWeb-Regular.57e937e4.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.c472d655.js",
     "static/js/2.4780427a.chunk.js",
-    "static/css/main.2ded53c6.chunk.css",
+    "static/css/main.dd9f53e2.chunk.css",
     "static/js/main.ccb54585.chunk.js"
   ]
 }

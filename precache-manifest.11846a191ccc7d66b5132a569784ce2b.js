@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dffd0b6542b651ec25f99d67fac3c45",
+    "revision": "26bbf6e9f89f86a32f80a9afeaca35bb",
     "url": "/react-interview-project/index.html"
   },
   {
-    "revision": "5ac01d76c068445f7315",
-    "url": "/react-interview-project/static/css/main.2ded53c6.chunk.css"
+    "revision": "48230df824f9aa102afa",
+    "url": "/react-interview-project/static/css/main.dd9f53e2.chunk.css"
   },
   {
     "revision": "aaac32363ab5e808b331",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-interview-project/static/js/3.77968d8c.chunk.js"
   },
   {
-    "revision": "5ac01d76c068445f7315",
+    "revision": "48230df824f9aa102afa",
     "url": "/react-interview-project/static/js/main.ccb54585.chunk.js"
   },
   {
